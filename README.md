@@ -16,7 +16,6 @@
 </div>
 
 ###
-
 <h1 align="left">Technologies</h1>
 
 ###
@@ -26,18 +25,35 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"  />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="30" alt="jetbrains logo"  />
+  <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="30" alt="jetbrains logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white&style=for-the-badge" height="30" alt="nuget logo"  />
+  <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white&style=for-the-badge" height="30" alt="nuget logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" height="30" alt="bootstrap logo" />
 </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="30" alt="dot-net logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="nuget logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="30" alt="bootstrap logo" />
+</div>
+
 
 ###
 
@@ -68,12 +84,12 @@
 </div>
 
 ###
-
+<br><br>
 <h1 align="left">Skills and knowledge</h1>
 
 ###
 
-<h3 align="left">Clean architecture, SOLID, MediatR, CQRS, DI, DTO, LINQ, WebAPI, Entity Framework, Blazor, MudBlazor,Testing, ASP.NET</h3>
+<h3 align="left">Clean architecture, .NET, SOLID, MediatR, CQRS, DI, DTO, LINQ, WebAPI, Entity Framework, Blazor, MudBlazor,Testing, ASP.NET, WinForms, RestAPI</h3>
 
 ###
 
@@ -86,7 +102,7 @@
 </div>
 
 ###
-
+<br><br>
 <h1 align="left">Socials</h1>
 
 ###
@@ -148,7 +164,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avazbek22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avazbek22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
