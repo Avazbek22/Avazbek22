@@ -1,20 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Avazbek22.Avazbek22&left_text=Profile%20visitors"  />
 
-<p align="center">
+<p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+code+Light&size=60&duration=4000&pause=1000&color=F70000&repeat=false&width=550&height=100&lines=Avazbek+Olimov" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p align="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+code+Light&size=40&duration=4000&pause=1000&color=42F7DD&width=700&height=100&lines=Junior+software+developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avazbek22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avazbek22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avazbek22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avazbek22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Avazbek22&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -90,12 +88,37 @@
 
 ###
 
-<br clear="both">
+<div align="left">
+</div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avazbek22/Avazbek22/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avazbek22/Avazbek22/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Avazbek22/Avazbek22/output/github-snake.svg" />
 </picture>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=Avazbek22&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avazbek22&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
