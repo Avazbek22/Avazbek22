@@ -1,166 +1,131 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Avazbek22.Avazbek22&left_text=Profile%20visitors"  />
+<p align="center">
+  <img
+    width="100%"
+    alt="Avazbek Olimov — .NET Developer, Open-Source Builder, Product Engineer"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0D1117,45:512BD4,100:7B61FF&amp;text=Avazbek%20Olimov&amp;fontColor=FFFFFF&amp;fontSize=52&amp;fontAlignY=38&amp;desc=.NET%20Developer%20%C2%B7%20Open-Source%20Builder%20%C2%B7%20Product%20Engineer&amp;descAlignY=59&amp;descSize=18&amp;animation=fadeIn&amp;section=header"
+  />
+</p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+code+Light&size=60&duration=4000&pause=1000&color=F70000&repeat=false&width=550&height=100&lines=Avazbek+Olimov" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img
+      alt="Typing introduction"
+      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=7B61FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=820&amp;height=45&amp;lines=I+build+products%2C+not+just+projects.;Cross-platform+.NET+%C2%B7+Developer+Tools+%C2%B7+Open+Source;From+architecture+and+tests+to+real+production+releases."
+    />
+  </a>
 </p>
 
-<p align="left">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+code+Light&size=40&duration=4000&pause=1000&color=42F7DD&width=700&height=100&lines=Junior+software+developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://t.me/Avazbek22">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@Avazbek22-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@IT-Life">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-IT--Life-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" />
+  </a>
+  <a href="mailto:avazbekolimov722@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Avazbek22&amp;style=for-the-badge&amp;color=512BD4&amp;label=PROFILE+VIEWS" />
 </p>
 
-###
+<br />
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avazbek22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Avazbek22&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+
+<h3 align="center">Engineering practices</h3>
+
+<p align="center">
+  <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge" />
+  <img alt="CQRS" src="https://img.shields.io/badge/CQRS-DB2777?style=for-the-badge" />
+  <img alt="MediatR" src="https://img.shields.io/badge/MediatR-E11D48?style=for-the-badge" />
+  <img alt="Dependency Injection" src="https://img.shields.io/badge/Dependency_Injection-0891B2?style=for-the-badge" />
+  <img alt="Async Await" src="https://img.shields.io/badge/Async_%2F_Await-2563EB?style=for-the-badge" />
+  <img alt="LINQ" src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge" />
+  <img alt="SOLID" src="https://img.shields.io/badge/SOLID-7C3AED?style=for-the-badge" />
+  <img alt="DTO" src="https://img.shields.io/badge/DTO-9333EA?style=for-the-badge" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-0F766E?style=for-the-badge" />
+  <img alt="Service Layer" src="https://img.shields.io/badge/Service_Layer-C026D3?style=for-the-badge" />
+  <img alt="KISS" src="https://img.shields.io/badge/KISS-F59E0B?style=for-the-badge" />
+  <img alt="Testing" src="https://img.shields.io/badge/Unit_%C2%B7_Integration_%C2%B7_UI_Tests-059669?style=for-the-badge" />
+</p>
+
+<br />
+
+Technology wall — 12 icons per row, no labels
+
+<p align="center">
+  <img
+    alt="Technology wall"
+    src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,postgres,mysql,docker,git,github,githubactions,visualstudio,rider,vscode,html,css,linux,windows,bash,powershell&amp;theme=dark&amp;perline=12"
+  />
+</p>
+
+<p align="center">
+  <img width="48" alt="Avalonia UI" src="https://cdn.simpleicons.org/avaloniaui/8B44AC" />
+  &nbsp;&nbsp;
+  <img width="48" alt="Blazor" src="https://cdn.simpleicons.org/blazor/512BD4" />
+  &nbsp;&nbsp;
+  <img width="48" alt="OpenAPI" src="https://cdn.simpleicons.org/openapiinitiative/6BA539" />
+  &nbsp;&nbsp;
+  <img width="48" alt="JWT" src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" />
+  &nbsp;&nbsp;
+  <img width="48" alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+  &nbsp;&nbsp;
+  <img width="48" alt="NuGet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
+  &nbsp;&nbsp;
+  <img width="48" alt="JSON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+</p>
+
+<br />
+
+<p align="center">
+  <img width="96%" alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avazbek22&amp;theme=github_dark" />
+</p>
+
+<div align="center">
+  <img
+    width="47%"
+    alt="Daily GitHub streak"
+    src="https://streak-stats.demolab.com?user=Avazbek22&amp;theme=github-dark-blue&amp;mode=daily&amp;short_numbers=true"
+  />
+  <img
+    width="47%"
+    alt="Weekly GitHub streak"
+    src="https://streak-stats.demolab.com?user=Avazbek22&amp;theme=github-dark-blue&amp;mode=weekly&amp;short_numbers=true"
+  />
 </div>
 
-###
-<h1 align="left">Technologies</h1>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm05NXE0eWRtY2l5eDhsdnEyeGZxemxmNmdka3IyNW5renR0MjQ3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="30" alt="jetbrains logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" height="30" alt="bootstrap logo" />
+<div align="center">
+  <img width="47%" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Avazbek22&amp;theme=github_dark" />
+  <img width="47%" alt="Productive coding time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avazbek22&amp;theme=github_dark&amp;utcOffset=3" />
+  <br />
+  <img width="47%" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avazbek22&amp;theme=github_dark" />
+  <img width="47%" alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Avazbek22&amp;theme=github_dark" />
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="30" alt="dot-net logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="nuget logo" />
-</div>
+<br />
 
+<p align="center">
+  <img
+    width="96%"
+    alt="Custom contribution activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Avazbek22&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=7B61FF&amp;point=F72585&amp;area=true&amp;area_color=512BD4&amp;hide_border=true&amp;radius=8&amp;custom_title=Commit%20and%20Contribution%20Flow"
+  />
+</p>
 
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avazbek22/Avazbek22/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avazbek22/Avazbek22/output/github-snake.svg" />
+    <img width="96%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Avazbek22/Avazbek22/output/github-snake.svg" />
+  </picture>
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-</div>
+<br />
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-<br><br>
-<h1 align="left">Skills and knowledge</h1>
-
-###
-
-<h3 align="left">Clean architecture, .NET, SOLID, MediatR, CQRS, DI, DTO, LINQ, WebAPI, Entity Framework, Blazor, MudBlazor,Testing, ASP.NET, WinForms, RestAPI</h3>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-<br><br>
-<h1 align="left">Socials</h1>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@IT-Life" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/avazbek_olimov_1722/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com/users/Avazbek22" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:avazbekolimov722@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://t.me/Avazbek22" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
-  </a>
-</div>
-
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avazbek22/Avazbek22/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avazbek22/Avazbek22/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Avazbek22/Avazbek22/output/github-snake.svg" />
-</picture>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=Avazbek22&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avazbek22&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avazbek22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="center">
+  <img
+    width="100%"
+    alt="Purple and pink footer wave"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:0D1117,35:512BD4,68:C026D3,100:E11D48&amp;section=footer"
+  />
+</p>
