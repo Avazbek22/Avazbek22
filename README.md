@@ -14,7 +14,7 @@
   <a href="https://t.me/Avazbek22"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@Avazbek22-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" /></a>&nbsp;
   <a href="https://www.youtube.com/@IT-Life"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-IT--Life-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" /></a>&nbsp;
   <a href="mailto:avazbekolimov722@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>&nbsp;
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Avazbek22&amp;style=for-the-badge&amp;color=512BD4&amp;label=PROFILE+VIEWS" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Avazbek22&amp;style=for-the-badge&amp;color=512BD4&amp;label=PROFILE+VIEWS&amp;base=2150"/>
 </div>
 
 <br />
@@ -23,14 +23,14 @@
 <p align="center">
   <img
     alt="Core technologies"
-    src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,postgres,mysql,sqlite,docker,git,github,githubactions,postman&amp;theme=dark&amp;perline=12"
+    src="https://skillicons.dev/icons?i=cs,dotnet,py,postgres,mysql,ubuntu,docker,linux,git,github,githubactions,stackoverflow,postman&amp;theme=dark&amp;perline=13"
   />
 </p>
 
 <p align="center">
   <img
     alt="Development tools and platforms"
-    src="https://skillicons.dev/icons?i=visualstudio,rider,pycharm,vscode,html,css,linux,windows,bash,powershell,md,regex&amp;theme=dark&amp;perline=12"
+    src="https://skillicons.dev/icons?i=visualstudio,rider,pycharm,vscode,html,css,js,windows,bash,powershell,md,regex&amp;theme=dark&amp;perline=12"
   />
 </p>
 
@@ -42,8 +42,6 @@
   <img width="48" height="48" alt="Avalonia UI" src="https://cdn.simpleicons.org/avaloniaui/8B44AC" />
   &nbsp;&nbsp;
   <img width="48" height="48" alt="Blazor" src="https://cdn.simpleicons.org/blazor/512BD4" />
-  &nbsp;&nbsp;
-  <img width="48" height="48" alt="OpenAPI" src="https://cdn.simpleicons.org/openapiinitiative/6BA539" />
   &nbsp;&nbsp;
   <img width="48" height="48" alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
   &nbsp;&nbsp;
