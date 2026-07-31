@@ -23,14 +23,14 @@
 <p align="center">
   <img
     alt="Core technologies"
-    src="https://skillicons.dev/icons?i=cs,dotnet,py,postgres,mysql,ubuntu,docker,linux,git,github,githubactions,stackoverflow,postman&amp;theme=dark&amp;perline=13"
+    src="https://skillicons.dev/icons?i=cs,dotnet,py,postgres,mysql,ubuntu,docker,linux,git,github,githubactions,stackoverflow,bots,postman&amp;theme=dark&amp;perline=14"
   />
 </p>
 
 <p align="center">
   <img
     alt="Development tools and platforms"
-    src="https://skillicons.dev/icons?i=visualstudio,rider,pycharm,vscode,html,css,js,windows,bash,powershell,md,regex&amp;theme=dark&amp;perline=12"
+    src="https://skillicons.dev/icons?i=visualstudio,rider,pycharm,vscode,html,css,js,windows,bash,powershell,md,ai,wasm,regex&amp;theme=dark&amp;perline=14"
   />
 </p>
 
