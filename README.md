@@ -30,27 +30,7 @@
 
 <br />
 
-
-<h3 align="center">Engineering practices</h3>
-
-<p align="center">
-  <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge" />
-  <img alt="CQRS" src="https://img.shields.io/badge/CQRS-DB2777?style=for-the-badge" />
-  <img alt="MediatR" src="https://img.shields.io/badge/MediatR-E11D48?style=for-the-badge" />
-  <img alt="Dependency Injection" src="https://img.shields.io/badge/Dependency_Injection-0891B2?style=for-the-badge" />
-  <img alt="Async Await" src="https://img.shields.io/badge/Async_%2F_Await-2563EB?style=for-the-badge" />
-  <img alt="LINQ" src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge" />
-  <img alt="SOLID" src="https://img.shields.io/badge/SOLID-7C3AED?style=for-the-badge" />
-  <img alt="DTO" src="https://img.shields.io/badge/DTO-9333EA?style=for-the-badge" />
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-0F766E?style=for-the-badge" />
-  <img alt="Service Layer" src="https://img.shields.io/badge/Service_Layer-C026D3?style=for-the-badge" />
-  <img alt="KISS" src="https://img.shields.io/badge/KISS-F59E0B?style=for-the-badge" />
-  <img alt="Testing" src="https://img.shields.io/badge/Unit_%C2%B7_Integration_%C2%B7_UI_Tests-059669?style=for-the-badge" />
-</p>
-
 <br />
-
-Technology wall — 12 icons per row, no labels
 
 <p align="center">
   <img
@@ -96,10 +76,7 @@ Technology wall — 12 icons per row, no labels
 
 <div align="center">
   <img width="47%" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Avazbek22&amp;theme=github_dark" />
-  <img width="47%" alt="Productive coding time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avazbek22&amp;theme=github_dark&amp;utcOffset=3" />
-  <br />
   <img width="47%" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avazbek22&amp;theme=github_dark" />
-  <img width="47%" alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Avazbek22&amp;theme=github_dark" />
 </div>
 
 <br />
